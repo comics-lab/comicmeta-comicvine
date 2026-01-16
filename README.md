@@ -1,5 +1,11 @@
 # comicmeta-comicvine
 
+## Agent and Logs
+
+- Agent profile: `AGENTS.md`
+- Logs (local-only): `CONVERSATION.md`, `BOOKMARKS.md`, `Action-Log.md` (when present)
+
+
 Connector for ComicVine: search & normalize to shared models.
 
 ## Setup
